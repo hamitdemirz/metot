@@ -1,0 +1,5 @@
+D:\Hamit\yazilim\patikac\metot\obj\Debug\net7.0\metot.csproj.AssemblyReference.cache
+D:\Hamit\yazilim\patikac\metot\obj\Debug\net7.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamit\yazilim\patikac\metot\obj\Debug\net7.0\metot.AssemblyInfoInputs.cache
+D:\Hamit\yazilim\patikac\metot\obj\Debug\net7.0\metot.AssemblyInfo.cs
+D:\Hamit\yazilim\patikac\metot\obj\Debug\net7.0\metot.csproj.CoreCompileInputs.cache
